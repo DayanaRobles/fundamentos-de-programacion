@@ -11,8 +11,6 @@ Semana1:
     Actividad 1: Calculadora Digital
     Ejercicios Extraevaluables: Los 4 ejercicios a evaluar.
 
-Personal_Clases: 
-contiene trabajos y apuntes de clase.
+Personal_Clases/ejerciciosClase: 
+Contiene trabajos y apuntes de clase.
 
-Ejercicios clase: 
-Se me duplico la carpeta. IGNORAR.
