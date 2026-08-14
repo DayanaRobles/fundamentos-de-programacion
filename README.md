@@ -2,7 +2,7 @@
 
 Alumna Dayana Robles
 
-Aquí encontrán los archivos para la material de Fundamentos de Programación
+ Archivos para la materia de Fundamentos de Programación
 
 La estructura actual es:
 
