@@ -1,3 +1,10 @@
+#======================================
+# ACTIVIDAD EVALUABLE 2 — COBRO DE ENTRADAS DEL MUSEO CON RESTRICCIONES DE CONTROL
+#======================================
+# Nombre: Dayana Lizeth Robles Moreno
+# Matrícula: 07320081
+# Fecha entrega: 21 de Agosto 2026
+#======================================
 #Constantes (precio base y porcentajes de Descuento)
 costo_bebe=0
 costo_menoresEdad=30
@@ -50,7 +57,7 @@ for v in range(1 , num_visitantes + 1):
         #Si es estudiante: el descuento es del 10% sobre precio base de $30
         if tipo_visitante==1:
          monto_descuento = precioBoleto * desc_estudiante
-         print("Aplica descuento estudiante.\nPorcentaje de descuento: 10%")
+         print("Aplica descuento estudiante a menores de edad.\nPorcentaje de descuento: 10%")
         else:
             monto_descuento = 0
             print("Menor de edad.\nNo es estudiante, no aplica descuento")
@@ -69,7 +76,7 @@ for v in range(1 , num_visitantes + 1):
 
         elif tipo_visitante == 1:
             monto_descuento = precioBoleto * desc_estudiante
-            print("Aplica descuento estudiante.\nPorcentaje de descuento: 10%")
+            print("Aplica descuento estudiante en mayores de edad.\nPorcentaje de descuento: 10%")
 
         elif  tipo_visitante == 2:
             monto_descuento = precioBoleto * desc_profesor
