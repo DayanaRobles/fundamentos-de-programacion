@@ -13,7 +13,7 @@ for v in range(1 , num_visitantes + 1):
         edad=int(input("Ingrese su edad: "))
         #si la edad es un número negativo no es válida
         if edad < 0:
-             print("No es una edad existente.\nIntente de nuevo.")
+             print("No es una edad existente.\n---Intente de nuevo---")
              #Revisa la condición del while de nuevo
              continue
         #sino la edad es válida
@@ -29,25 +29,28 @@ for v in range(1 , num_visitantes + 1):
     #Si tiene menos de 3 años el precio de boleto es $0
     if edad < 3:
         precioBoleto = 0
-        print(" Menor de edad, su boleto es gratis ")
+        print(f"Precio de boleto base: {precioBoleto}")
+        print("Menor de edad.\nSu boleto es gratis. ")
+        
 
     #Si es menor de edad: su precio de boleto base es $30
     elif edad >= 3 and edad <= 17:
         precioBoleto = 30  
-
+        print(f"Precio de boleto base: {precioBoleto}")
         #Puede tener descuento UNICAMENTE DE ESTUDIANTE, por la edad no puede ser profesor ni adulto mayor.
         tipo_visitante = int(input("¿Eres estudiante? (número)\n 1. Sí\n 2. No\n "))
 
         #Si es estudiante: el descuento es del 10% sobre precio base de $30
         if tipo_visitante==1:
          descuento = precioBoleto * 0.10
-         print("Aplica descuento estudiante/profesor: 10%")
+         print("Aplica descuento estudiante.\n Porcentaje de descuento: 10%")
         else:
             descuento = 0
-            print("No aplica descuento")
+            print("Menor de edad.\n No es estudiante, no aplica descuento")
     #Si es mayor de edad edad >= 18: su precio base del boleto es $45
     else:
         precioBoleto = 45
+        print(f"Precio de boleto base: {precioBoleto}")
         tipo_visitante = int(input("Elige una opción (número):\n 1. Estudiante\n 2. Profesor\n 3. AdultoMayor\n 4. Ninguno "))
 
         
@@ -56,20 +59,25 @@ for v in range(1 , num_visitantes + 1):
 
         elif tipo_visitante == 3:
             descuento = precioBoleto * 0.12
-            print("Aplica descuento adulto mayor: 12%")
+            print("Aplica descuento adulto mayor.\n Porcentaje de descuento: 12%")
 
         elif tipo_visitante == 1 or tipo_visitante == 2:
             descuento = precioBoleto * 0.10
-            print("Aplica descuento estudiante/profesor: 10%")
+            if tipo_visitante == 1:
+                print("Aplica descuento estudiante.\n Porcentaje de descuento: 10%")
+            else:
+                print("Aplica descuento profesor.\n Porcentaje de descuento: 10%")
         
         else: 
             descuento = 0
-            print("No aplica descuento")
+            print("Mayor de edad sin descuento")
+    
     #Operacion descuento
     precioBoleto = precioBoleto - descuento
+    print(f"Monto de descuento: ${descuento:.2f}")
     print(f"El precio del boleto final:{precioBoleto}")
     #Acumular el total de los boletos
     total += precioBoleto
-    print(f"Precio acumulado: ${total} ")
-    
-print(f"El total por los {num_visitantes} visitantes, es de : ${total:.2f}")
+    print(f"Precio acumulado: ${total:.2f} ")
+print(f"\n=======REGISTRO FINALIZADO======")
+print(f"El total por los {num_visitantes} visitantes: ${total:.2f}")
