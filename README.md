@@ -6,15 +6,25 @@ Alumna Dayana Robles
 
 Estructura del Repositorio:
 
+
 - Semana1:
+
  Dentro de esta carpeta estan los ejercicios evaluativos. 
-    -Actividad 1: Calculadora Digital
-    -Ejercicios Extraevaluables: Los 4 ejercicios a evaluar.
+
+    - Actividad 1: Calculadora Digital
+    - Ejercicios Extraevaluables: Los 4 ejercicios a evaluar.
+
+
 - Semana2:
+
     -Actividad2_Museo: 
+
     Nota: ambas son entregas finales, únicamente subi ambas versiones para facilitar la ejecucción o revisión seún la preferencia del profesor.
+
         CobroEntradasMuseo.ipynb ---Versión Jupyter Notebook --- 
         CobroEntradasMuseo.py    ---Version .py ---
+
+
     -Ejercicios_Extraevaluables
         Extras_semana2.ipynb: Los 4 ejercicios extras a evaluar.
 
