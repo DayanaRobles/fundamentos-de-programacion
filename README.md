@@ -4,10 +4,10 @@ Alumna Dayana Robles
 
  Repositorio con los archivos para la materia de Fundamentos de Programación
 
-Estructura del Repositorio:
+## Estructura del Repositorio:
 
 
-- Semana1:
+**Semana1:**
 
  Dentro de esta carpeta estan los ejercicios evaluativos. 
 
@@ -15,9 +15,9 @@ Estructura del Repositorio:
     - Ejercicios Extraevaluables: Los 4 ejercicios a evaluar.
 
 
-- Semana2:
+**Semana2:**
 
-    -Actividad2_Museo: 
+    - Actividad2_Museo: 
 
     Nota: ambas son entregas finales, únicamente subi ambas versiones para facilitar la ejecucción o revisión seún la preferencia del profesor.
 
@@ -25,10 +25,11 @@ Estructura del Repositorio:
         CobroEntradasMuseo.py    ---Version .py ---
 
 
-    -Ejercicios_Extraevaluables
+    - Ejercicios_Extraevaluables
+
         Extras_semana2.ipynb: Los 4 ejercicios extras a evaluar.
 
 
--Personal_Clases/ejerciciosClase: 
+**Personal_Clases/ejerciciosClase:**
     Contiene trabajos y apuntes de clase.
 
