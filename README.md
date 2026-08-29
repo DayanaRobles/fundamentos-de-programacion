@@ -30,14 +30,13 @@ Alumna Dayana Robles
         Extras_semana2.ipynb: Los 4 ejercicios extras a evaluar.
 
 **Semana 3:**
+    Avance-proyecto:   Contiene las entregas finales del avance de proyecto.
 
-    Contiene las entregas finales del avance de proyecto.
+            -diagrama_flujo.png  
+            
+            -prototipo_inicial.ipynb
 
-    -diagrama_flujo.png  
-
-    -prototipo_inicial.ipynb
-
-    -reporte_avance.pdf
+            -reporte_avance.pdf
 
 
 **Personal_Clases/ejerciciosClase:**
