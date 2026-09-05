@@ -30,13 +30,24 @@ Alumna Dayana Robles
         Extras_semana2.ipynb: Los 4 ejercicios extras a evaluar.
 
 **Semana 3:**
-    Avance-proyecto:   Contiene las entregas finales del avance de proyecto.
+
+    -Avance-proyecto: Contiene las entregas finales del avance de proyecto.
 
             -diagrama_flujo.png  
             
             -prototipo_inicial.ipynb
 
             -reporte_avance.pdf
+
+**Semana 4:**
+
+      Cada carpeta contiene las entregas finales de la semana 4
+
+            - Tabla Pitagoras: 
+                    -tabla_pitagoras: Ejercicio evaluable semana 4
+
+            - Extras: 
+                    -Ejercicios Extraevaluables: Los 4 ejercicios a evaluar.
 
 
 **Personal_Clases/ejerciciosClase:**
