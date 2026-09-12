@@ -50,6 +50,18 @@ Alumna Dayana Robles
                     -Ejercicios Extraevaluables: Los 4 ejercicios a evaluar.
 
 
+**Semana 5:**
+
+      Cada carpeta contiene las entregas finales de la semana 4
+
+            - Menu_Modular: 
+                    -tMenu_Modular: Ejercicio evaluable semana 4
+
+            - Extras: 
+                    -Ejercicios Extraevaluables y desafios: Los 9 ejercicios a evaluar.
+
+
+
 **Personal_Clases/ejerciciosClase:**
     Contiene trabajos y apuntes de clase.
 
