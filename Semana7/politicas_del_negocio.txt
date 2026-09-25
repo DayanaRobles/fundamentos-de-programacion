@@ -1,0 +1,8 @@
+--- POLÍTICAS Y REGLAS DE OPERACIÓN ---
+1. Solo se puede ingresar hasta 10 servicios diferentes por ticket
+2. Cada servicio cuenta con un límite estricto de cantidad por pedido
+3. Descuento del 10% sobre el subtotal si el pedido incluye más de 2 servicios
+4. Los pedidos 'Express' tienen un recargo del 20% y reducen el tiempo de entrega a la mitad
+5. Para iniciar el servicio se requiere liquidar o dejar un anticipo mínimo del 50%
+6. El tiempo de entrega toma el mayor tiempo requerido si se solicitan varios servicios
+7. Pasando el plazo de 2 años, el negocio no se hace responsable por el calzado olvidado.
