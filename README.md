@@ -79,6 +79,20 @@ Alumna Dayana Robles
                     -Ejercicios_Semana6: Los 25 ejercicios extras a evaluar
 
 
+**Semana 7:**
+
+      Cada carpeta contiene las entregas finales del proyecto
+
+            - Proyecto_Final_Documentacion: 
+                    ProyectoFinalDocumentación_renovacalzado.pdf: archivo formal de proyecto con pruebas de debugging
+
+            - Proyecto_Final_Programa: 
+                    -EntregaFinalProyecto: Programa con comentarios
+                    -Base_datos_clientes- archivo de persistencia- : txt que se actualiza manualmente 
+                    -bitacora_pedidos -archivo de persistencia-: se actualiza automaticamente
+                    -catalogo_servicios -archivo de persistencia-: solo lectura
+                    -politicas_del_negocio -archivo de persistencia-: archivo informativo
+                    -promociones_especiales -archivo de persistencia-: se puede actualizar manualmente o leer.
 
 **Personal_Clases/ejerciciosClase:**
     Contiene trabajos y apuntes de clase.
