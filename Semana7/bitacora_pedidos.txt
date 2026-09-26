@@ -1,3 +1,9 @@
 BITACORA DE PEDIDOS.
-Fecha: 31/12/2025 | Cliente: Laura Mendoza | Total: $200.00
-Fecha: 25/08/2021 | Cliente: NO SE | Total: $2002.00
+Fecha: 31/12/2025 | Cliente: Laura mendoza | Total: $200.00
+Fecha: 25/08/2021 | Cliente: No se | Total: $2002.00
+Fecha: 25/09/2026 | Cliente: Alexander uribe | Total: $3410.00
+Fecha: 25/09/2026 | Cliente: Ophelia | Total: $990.00
+Fecha: 28/09/2026 | Cliente: Liliel maria | Total: $558.00
+Fecha: 30/12/2026 | Cliente: Maria ortega | Total: $1638.00
+Fecha: 28/02/2026: Agregando lineas de prueba
+Fecha: 30/09/2026 | Cliente: Pedro ignacio | Total: $1278.00
