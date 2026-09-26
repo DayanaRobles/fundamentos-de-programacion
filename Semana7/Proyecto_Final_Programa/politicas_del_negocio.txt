@@ -1,0 +1,8 @@
+POLITICAS DEL NEGOCIO
+1. Criterio de Anticipos: Para iniciar con cualquier servicio, el cliente puede liquidar el costo total o dejar un anticipo de mínimo el 50%.
+2. Descuentos por Volumen: Si el pedido es de más de 2 servicios en total, se aplica automáticamente un 10% de descuento sobre el subtotal.
+3. Servicios Express: Los pedidos catalogados como 'Express' reciben un recargo del 20% sobre el subtotal y el tiempo de entrega se reduce a la mitad.
+4. Limites de Cantidad: Cada servicio cuenta con un limite máximo de pares permitidos por ticket (Cambio de suela: 3, Costuras: 3, Tintado: 2, Restauración Gamuza: 2, y Ajuste de correa: 9)
+5. Tiempos de Entrega: El tiempo de entrega se calcula según la cantidad de pares y el tipo de servicio. Si el cliente solicita varios servicios en un mismo ticket, se toma en cuenta el que tenga el mayor tiempo de entrega.
+6. Renovacalzado no se hace responsable por pedidos olvidados por más de 1 año
+7. Unicamente se guardan los datos del cliente sí el cliente así lo pide en la base de datos con la finalidad de enviar avisos de promociones especiales
