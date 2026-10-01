@@ -94,6 +94,10 @@ Alumna Dayana Robles
                     -politicas_del_negocio -archivo de persistencia-: archivo informativo
                     -promociones_especiales -archivo de persistencia-: se puede actualizar manualmente o leer.
 
+**Semana 8:**
+
+            - Proyecto_Final_Presentacion_RMDayana: presentacion en pdf
+
 **Personal_Clases/ejerciciosClase:**
     Contiene trabajos y apuntes de clase.
 
