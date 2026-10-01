@@ -11,3 +11,4 @@ Fecha: 28/02/2026 | Cliente: Mariana mendoza | Total: $1254.00
 Fecha: 29/02/2024 | Cliente: Juan jeronimo | Total: $1650.00
 Fecha: 27/09/2026 | Cliente: Jose perez | Total: $1210.00
 Fecha: 27/09/2026 | Cliente: Maria morales | Total: $1364.00
+Fecha: 02/02/2024 | Cliente: 1 | Total: $1342.00

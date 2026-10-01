@@ -1,0 +1,2 @@
+Total de ventas: 400.000000
+Promedio por venta: 133.333333

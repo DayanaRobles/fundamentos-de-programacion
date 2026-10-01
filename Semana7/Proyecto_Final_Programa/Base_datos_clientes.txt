@@ -5,3 +5,4 @@ Fecha: 25/02/2026: Cliente: Patricia mendoza | Telï¿½fono: 25156314
 Fecha: 28/02/2026: Cliente: Mariana mendoza | Telï¿½fono: 1425542
 Fecha: 29/02/2024: Cliente: Juan jeronimo | Telï¿½fono: 4421522879
 Fecha: 27/09/2026: Cliente: Maria morales | Teléfono: 21252155
+Fecha: 02/02/2024: Cliente: 1 | Teléfono: Mario Mendoza

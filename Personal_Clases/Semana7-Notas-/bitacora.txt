@@ -1,0 +1,3 @@
+Registro 1: sistema iniciado
+Registro 2: usuario registrado
+Registro 3: operación guardada
